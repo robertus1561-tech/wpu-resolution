@@ -1,0 +1,5 @@
+HALO PAK salam kenal , nama saya robertus
+
+Resolusi saya 
+- membuat website dengan menggunakan framework javascript
+- bekerja di startup
