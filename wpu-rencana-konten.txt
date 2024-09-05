@@ -1,6 +1,8 @@
 RENCANA CONTENT WPU
 
 - JAVASCRIPT
+  * ES6
+  * Framework Javascript
 - PHP FRAMEWORK
 - Interview
 - Vlogs
