@@ -1,11 +1,15 @@
+
 RENCANA CONTENT WPU
 
 - JAVASCRIPT
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur Data Dasar
+
 - PHP FRAMEWORK
   ^ Laravel
 - Interview
 - Vlogs
+- Python
